@@ -22,4 +22,4 @@ Projeto construído no evento Next Level Week da RocketSeat.
 
 ## Contato 
 
-andradeeduardo400@gmail.com
+e-mail: andradeeduardo400@gmail.com
